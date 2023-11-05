@@ -1,0 +1,13 @@
+body{
+    background: rgb(0, 0, 0);
+        background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(14, 0, 139, 1) 22%, rgba(0, 0, 0, 1) 100%);
+}
+.custom-slate{
+    background: rgba(0, 0, 0, 0.523);
+}
+.bg-green-700{
+    background: rgb(3, 134, 3);
+}
+.bg-red-700 {
+    background: rgb(255, 20, 20);
+}
